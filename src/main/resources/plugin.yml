@@ -1,0 +1,10 @@
+name: Quick
+version: '${project.version}'
+main: dev.isnow.quick.AntiCheat
+author: "5170"
+description: Quick Anticheat by 5170
+softdepend:
+  - ProtocolLib
+  - ProtocolSupport
+  - ViaVersion
+  - Geyser-Spigot
